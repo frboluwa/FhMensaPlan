@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <LinearLayout
+    	android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:layout_weight="1">
+        
+        <TextView
+            android:id="@+id/date"
+        	android:text="@string/date"
+        	android:textSize="15pt"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"/>
+        
+        <TextView
+            android:id="@+id/tagesteller"
+        	android:text="@string/tagesteller"
+        	android:background="#aa0000"
+        	android:textSize="15pt"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"/>
+        
+        <TextView
+            android:id="@+id/hauptgericht"
+        	android:text="@string/hauptgericht"
+        	android:textSize="15pt"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"/>
+        
+        <TextView
+            android:id="@+id/vegetarisch"
+        	android:text="@string/vegetarisch"
+        	android:textSize="15pt"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"/>
+        
+        <TextView
+            android:id="@+id/beilagen"
+        	android:text="@string/beilagen"
+        	android:textSize="15pt"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"/>
+        
+    </LinearLayout>
+    
+</LinearLayout>

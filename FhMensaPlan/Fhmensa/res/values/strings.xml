@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FhmensaActivity!</string>
+    <string name="app_name">Fhmensa</string>
+    <string name="hagen">Hagen</string>
+    <string name="iserlohn">Iserlohn</string>
+    <string name="meschede">Meschede</string>
+    <string name="luedenscheid">Luedenscheid</string>
+    <string name="soest">Soest</string>
+    <string name="date">Datum</string>
+    <string name="tagesteller">Tagesteller</string>
+    <string name="hauptgericht">Hauptgericht</string>
+    <string name="vegetarisch">Vegetarisch</string>
+    <string name="beilagen">Beilagen</string>
+    
+
+</resources>
